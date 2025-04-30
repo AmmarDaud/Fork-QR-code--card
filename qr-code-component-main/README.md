@@ -7,18 +7,17 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
+  - [Author](#author)
 
 ## Overview
 
 ### Screenshot
 
-![QR Code Component Screenshot]"![alt text](c:\Users\Ammar Daud Khan\Desktop\Qr Code SS.png)
+![QR Code image](C:\Users\Ammar Daud Khan\Desktop\Qr Code SS.png)
 
 ### Links
 
@@ -51,6 +50,7 @@ body {
     flex-direction: column;
     gap: 30px;
   }
+  ```
   
             **Continued development**
 1. Accessibility best practices.
