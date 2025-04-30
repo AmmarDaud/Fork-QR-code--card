@@ -17,7 +17,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Screenshot
 
-![QR Code image](C:\Users\Ammar Daud Khan\Desktop\Qr Code SS.png)
+[alt text](<images/Qr Code SS.png>)
 
 ### Links
 
