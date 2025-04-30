@@ -4,6 +4,8 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    flex-direction: column;
+    gap: 30px;
   }
 
   .card {
@@ -47,8 +49,5 @@ body {
     width: 288px;
     text-align: center;
   }
-  .attribution {
-    position: absolute;
-    bottom: 10px;
-  }
+
   
