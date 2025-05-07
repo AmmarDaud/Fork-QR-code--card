@@ -17,11 +17,11 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Screenshot
 
-[alt text](<images/Qr Code SS.png>)
+[alt text](<images/Fork QR code SS.png>)
 
 ### Links
 
-- Live Site URL: [Live Project](http://127.0.0.1:5500/Mod-3/qr-code-component-main/qr-code-component-main/index.html)
+- Live Site URL: [Live Project](http://127.0.0.1:5500/Lab-3/Fork_Qr-Code-Frontend-/qr-code-component-main/index.html)
 
 ### Built with
 
@@ -41,15 +41,22 @@ This project helped me reinforce the basics of:
 #### Example snippet:
 
 ```css
-body {
-    background-color: hsl(212, 45%, 89%);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    flex-direction: column;
-    gap: 30px;
-  }
+    <main class="card text-center p-3 rounded-4" style="width: 20rem;">
+      <img
+        src="images/image-qr-code.png"class="card-img-top rounded-3"alt="QR Code"/>
+
+      <div class="card-body ">
+        <h5 class="card-title fw-bold text-dark p-1">
+          Improve your front-end skills by building projects
+        </h5>
+
+        <p
+          class="card-text text-muted p-1"
+          style="color: #68778d; font-size: 0.9375rem; font-weight: 400;">
+          Scan the QR code to visit Frontend Mentor and take your coding skills to the next level
+        </p>
+      </div>
+    </main>
   ```
   
             **Continued development**
